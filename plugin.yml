@@ -4,4 +4,3 @@ version: 0.1
 commands:
    powerup:
       description: Creates an arena.
-solfdepend: [AntiCheat]
