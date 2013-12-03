@@ -1,6 +1,8 @@
 main: me.The_Coder.main.Main
 name: PowerUp
 version: 0.1
+description: >
+             Allows Blocks to have powerups
 commands:
    powerup:
       description: Creates an arena.
