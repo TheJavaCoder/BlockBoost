@@ -1,0 +1,7 @@
+main: me.The_Coder.main.Main
+name: PowerUp
+version: 0.1
+commands:
+   powerup:
+      description: Creates an arena.
+solfdepend: [AntiCheat]
